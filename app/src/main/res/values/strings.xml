@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">City Library</string>
+    <string name="bookname">Bookname</string>
+</resources>
